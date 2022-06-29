@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407575672022",
+    "project_id": "dsmpc02",
+    "storage_bucket": "dsmpc02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407575672022:android:4673e7be5bcbdc07e58577",
+        "android_client_info": {
+          "package_name": "com.esan2022.pc02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407575672022-cpvnqd5ipjodaakndrto7tu0kmqlubdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFR6uWVoUPTSk8qOiMUok-iBqiJ9cvbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407575672022-cpvnqd5ipjodaakndrto7tu0kmqlubdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
